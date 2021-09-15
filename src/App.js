@@ -9,6 +9,14 @@ const App = () => {
 
             <Header />
             <Home />
+            {/* Search */}
+
+            {/* Cards */}
+
+            {/* Footer */}
+
+            {/* Search Page */}
+            {/* ... */}
 
         </div>
     )
