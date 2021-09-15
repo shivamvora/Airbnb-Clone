@@ -4,3 +4,39 @@
   height: 50vh;
   position: relative;
 }
+.banner_info {
+  background-color: black;
+  color: white;
+  padding-top: 15vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width: 300px;
+}
+
+.banner_info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.banner_info > button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+
+.banner_info > h5 {
+  margin-top: 10px;
+}
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 700 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+}
